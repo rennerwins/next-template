@@ -14,7 +14,7 @@ This is a [Next.js](https://nextjs.org) starter template to make it faster to st
 First, run the following command to create new Next.js project with this template:
 
 ```bash
-yarn create next-app [project-name] --e https://github.com/rennerwins/next-template
+yarn create next-app [project-name] -e https://github.com/rennerwins/next-template
 ```
 
 Then install dependencies:
